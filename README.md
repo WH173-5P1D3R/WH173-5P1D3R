@@ -1,7 +1,7 @@
 <h2 align="center">Hi I'm <br>WH173 5P1D3R 🥰</h1>
 <h4 align="center">Iam noob Programmer</h3>
-<img align="center" height="auto" src="https://github.com/WH173-5P1D3R/WH173-5P1D3R/blob/main/image/WH173%205P1D3R.jpg" width="500" height="500"/>
-<p align="center">
+<div align="center">
+  <img src="https://github.com/WH173-5P1D3R/WH173-5P1D3R/blob/main/image/WH173%205P1D3R.jpg" width="500" height="500">
 <a href="https://github.com/WH173-5P1D3R"><img title="Author" src="https://img.shields.io/badge/Author-WH173 5P1D3R-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
