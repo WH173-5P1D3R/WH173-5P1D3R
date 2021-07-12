@@ -4,7 +4,7 @@
 <img src="./image/WH173 5P1D3R.jpg"/>
 </p>
 <p align="center">
-<a href="https://github.com/WH173-5P1D3R"><img title="WH173 5P1D3R" src="https://img.shields.io/badge/Author-MRHRTZ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/WH173-5P1D3R"><img title="Author" src="https://img.shields.io/badge/Author-WH173 5P1D3R-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ##
