@@ -32,3 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WH173-5P1D3R&theme=nightowl" alt="WH173-5P1D3R" /></p>
 </details>
+
+<h1>CONTACT ME ON</h1>
+<a href="https://www.instagram.com/wh173_5p1d3r_official/"><img title="Contact Me" src="https://shields.io/badge/WH173 5P1D3R-white?logo=instagram"></a>
+<a href="https://wa.me/+917736807522"><img title="Contact Me" src="https://shields.io/badge/WH173 5P1D3R-white?logo=whatsapp"></a>
+
