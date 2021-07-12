@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/WH173-5P1D3R/WH173-5P1D3R/blob/main/image/WH173%205P1D3R.jpg" width="500" height="500">
 <p align="center">  
-<a href="https://github.com/WH173-5P1D3R"><img title="Author" src="https://img.shields.io/badge/Author-WH173 5P1D3R-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/WH173-5P1D3R"><img title="Author" src="https://shields.io/badge/WH173 5P1D3R-grey?logo=github"></a>
 </p>
 
 ##
